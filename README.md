@@ -22,3 +22,15 @@ cd C:\xampp\htdocs\NGO
 # Import database.sql to phpMyAdmin
 # Configure config.php
 # Visit http://localhost/NGO
+NGO/
+├── index.php          # Home
+├── config.php         # Database config
+├── database.sql       # Schema
+├── login/register     # Auth
+├── dashboard.php      # User panel
+├── donate.php         # Donations
+├── volunteer.php      # Hours tracking
+├── events.php         # Events
+├── blog.php           # Blog
+├── gallery.php        # Gallery
+└── contact.php        # Contact
